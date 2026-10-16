@@ -1,0 +1,65 @@
+{
+  "country": "KE",
+  "from": "2022-01-01",
+  "to": "2026-06-30",
+  "run_at": "20261016T174454Z",
+  "n_ticks": 235,
+  "n_districts": 23,
+  "n_units_assessed": 16,
+  "n_phase_3_plus_transitions": 14,
+  "transitions": {
+    "KE-ADM1-garissa": "2025-02-01",
+    "KE-ADM1-isiolo": "2026-01-01",
+    "KE-ADM1-kitui": "2022-02-01",
+    "KE-ADM1-kwale": "2026-01-01",
+    "KE-ADM1-laikipia": "2022-07-01",
+    "KE-ADM1-makueni": "2022-07-01",
+    "KE-ADM1-mandera": "2025-02-01",
+    "KE-ADM1-marsabit": "2025-02-01",
+    "KE-ADM1-meru": "2022-02-01",
+    "KE-ADM1-samburu": "2022-02-01",
+    "KE-ADM1-tana-river": "2026-01-01",
+    "KE-ADM1-tharaka": "2022-07-01",
+    "KE-ADM1-turkana": "2025-02-01",
+    "KE-ADM1-wajir": "2025-02-01"
+  },
+  "model_metrics": {
+    "hit_rate": 0.0,
+    "false_alarm_rate": null,
+    "median_weeks_gained": null,
+    "n_hits": 0,
+    "n_warned_units": 0,
+    "n_warned_units_with_ipc_coverage": 0
+  },
+  "persistence_baseline": {
+    "hit_rate": 0.0,
+    "false_alarm_rate": null,
+    "median_weeks_gained": null,
+    "n_hits": 0,
+    "n_warned_units": 0,
+    "n_warned_units_with_ipc_coverage": 0
+  },
+  "model_metrics_level1": {
+    "hit_rate": 0.357,
+    "false_alarm_rate": 0.286,
+    "median_weeks_gained": 161.0,
+    "n_hits": 5,
+    "n_warned_units": 13,
+    "n_warned_units_with_ipc_coverage": 7
+  },
+  "persistence_baseline_level1": {
+    "hit_rate": 0.357,
+    "false_alarm_rate": 0.286,
+    "median_weeks_gained": 157.0,
+    "n_hits": 5,
+    "n_warned_units": 13,
+    "n_warned_units_with_ipc_coverage": 7
+  },
+  "level_counts_over_ticks": {
+    "0": 453,
+    "1": 1773
+  },
+  "notes": [
+    "no unit reached level 2: only one source family (market_prices) is ingested, and L2 needs two"
+  ]
+}

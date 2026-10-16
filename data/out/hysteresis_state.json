@@ -1,0 +1,362 @@
+{
+  "KE-ADM1-baringo": {
+    "level": 1,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2025-03-01",
+    "previous_level": 1,
+    "raw_level": 1,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-garissa": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-09-01",
+    "previous_level": 0,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-kajiado": {
+    "level": 0,
+    "pending_count": 1,
+    "pending_level": 1,
+    "period_start": "2023-07-01",
+    "previous_level": 0,
+    "raw_level": 1,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-kilifi": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2020-12-01",
+    "previous_level": 0,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-kisumu": {
+    "level": 1,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-08-01",
+    "previous_level": 1,
+    "raw_level": 1,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-kitui": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2023-10-01",
+    "previous_level": 1,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-makueni": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-05-01",
+    "previous_level": 0,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-mandera": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-03-01",
+    "previous_level": 0,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-marsabit": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-03-01",
+    "previous_level": 1,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-mombasa": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2024-06-01",
+    "previous_level": 1,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-nairobi": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-08-01",
+    "previous_level": 0,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-nakuru": {
+    "level": 1,
+    "pending_count": 1,
+    "pending_level": 0,
+    "period_start": "2024-06-01",
+    "previous_level": 1,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-nyeri": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2024-06-01",
+    "previous_level": 0,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-tana-river": {
+    "level": 0,
+    "pending_count": 1,
+    "pending_level": 1,
+    "period_start": "2024-12-01",
+    "previous_level": 0,
+    "raw_level": 1,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-turkana": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-09-01",
+    "previous_level": 0,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-uasin-gishu": {
+    "level": 0,
+    "pending_count": 1,
+    "pending_level": 1,
+    "period_start": "2026-08-01",
+    "previous_level": 0,
+    "raw_level": 1,
+    "run_at": "20261016T180505Z"
+  },
+  "KE-ADM1-wajir": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-03-01",
+    "previous_level": 0,
+    "raw_level": 0,
+    "run_at": "20261016T180505Z"
+  },
+  "ZW-ADM0-zimbabwe": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2026-05-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-beitbridge-urban": {
+    "level": 1,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2016-11-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-bindura-urban": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2018-01-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-binga": {
+    "level": 0,
+    "pending_count": 1,
+    "pending_level": 1,
+    "period_start": "2018-12-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-buhera": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2014-05-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-bulawayo": {
+    "level": 1,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2017-07-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-chimanimani": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2014-04-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-chinhoyi": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2014-07-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-chipinge-urban": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2017-05-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-chiredzi-urban": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2014-05-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-chivi": {
+    "level": 0,
+    "pending_count": 1,
+    "pending_level": 1,
+    "period_start": "2014-11-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-gutu": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2017-05-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-gwanda-urban": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2013-01-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-harare": {
+    "level": 1,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2017-07-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-hwange-urban": {
+    "level": 1,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2018-12-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-marondera-urban": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2014-05-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-masvingo-urban": {
+    "level": 1,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2017-08-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-mount-darwin": {
+    "level": 1,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2018-04-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-murehwa": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2014-12-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-mutare-urban": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2017-05-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-nkayi": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2018-03-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-zvimba": {
+    "level": 0,
+    "pending_count": 0,
+    "pending_level": null,
+    "period_start": "2014-01-01",
+    "previous_level": null,
+    "raw_level": 0,
+    "run_at": "20261016T182341Z"
+  },
+  "ZW-ADM2-zvishavane-urban": {
+    "level": 0,
+    "pending_count": 1,
+    "pending_level": 1,
+    "period_start": "2018-12-01",
+    "previous_level": null,
+    "raw_level": 1,
+    "run_at": "20261016T182341Z"
+  }
+}

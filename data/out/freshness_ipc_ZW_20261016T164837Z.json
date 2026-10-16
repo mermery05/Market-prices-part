@@ -1,0 +1,66 @@
+{
+  "country": "ZW",
+  "run_at": "20261016T164837Z",
+  "as_of": null,
+  "sources": {
+    "ipc_phase": {
+      "source_id": "ipc_phase",
+      "status": "ok",
+      "rows_fetched": 2520,
+      "rows_after_cleaning": 240,
+      "latest_date": "2020-10-01",
+      "confidence_adjustment": 1.0,
+      "datasets_tried": {
+        "zimbabwe-acute-food-insecurity-country-data": "used"
+      },
+      "dataset": "zimbabwe-acute-food-insecurity-country-data",
+      "raw_path": "data\\raw\\ZW_ipc_area_long_2026-10-16.csv",
+      "last_modified": "Thu, 30 Apr 2026 04:22:06 GMT",
+      "geojson_path": "data\\raw\\ZW_ipc_areas_2026-10-16.geojson",
+      "projection_rows_skipped": 840,
+      "unmatched_districts": [],
+      "unmatched_note": "IPC areas with no admin unit (e.g. refugee camps such as Dadaab/Kakuma are separate IPC areas, not counties); excluded from output, not dropped silently",
+      "match_methods": {
+        "exact": 59,
+        "gazetteer": 1
+      },
+      "rows_unmatched": 0,
+      "official_vs_derived": {
+        "compared": 60,
+        "agree": 55
+      },
+      "clean_path": "data\\clean\\ZW_ipc_2019-02_2020-10.csv",
+      "latest_analysis": "2020-10",
+      "analyses": 4,
+      "units_covered": 60,
+      "phase_distribution": {
+        "2": 48,
+        "3": 187,
+        "4": 5
+      }
+    }
+  },
+  "signal_row_counts": {
+    "ipc_phase": 240
+  },
+  "output_csv": "data\\out\\signal_observation_ipc_ZW_20261016T164837Z.csv",
+  "smoke_test": {
+    "zero_hard_failures": {
+      "pass": true,
+      "error": null
+    },
+    "ipc_phase_populated": {
+      "pass": true,
+      "rows": 240
+    },
+    "phase_in_1_to_5": {
+      "pass": true
+    },
+    "idempotent_upsert": {
+      "pass": true,
+      "db": "data\\out\\signal_observation.sqlite",
+      "rows_before": 15554,
+      "rows_after": 15794
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "country": "ZW",
+  "run_at": "20261016T160407Z",
+  "as_of": null,
+  "admin_level": "ADM2",
+  "admin_units": 91,
+  "sources": {
+    "wfp_hdx_zw": {
+      "source_id": "wfp_hdx_zw",
+      "status": "ok",
+      "rows_fetched": 28874,
+      "rows_after_cleaning": 5790,
+      "outlier_count": 1222,
+      "latest_date": "2026-05-01",
+      "confidence_adjustment": 0.5,
+      "raw_path": "data\\raw\\ZW_wfp_hdx_2026-10-16.csv",
+      "last_modified": "Sun, 11 Oct 2026 22:09:08 GMT",
+      "invalid_price_rows": 0,
+      "outlier_grouping": "commodity_raw x unit x currency x price_type",
+      "outlier_count_if_currencies_mixed": 1676,
+      "rows_dropped_currency": {
+        "ZWL": 22743
+      },
+      "outlier_count_in_kept_currency": 341,
+      "rows_unlocated": 0,
+      "markets_unlocated": [],
+      "location_methods": {
+        "point_in_polygon": 124,
+        "gazetteer": 8
+      },
+      "earliest_date": "2010-01-01",
+      "age_months": 5,
+      "clean_path": "data\\clean\\ZW_wfp_hdx_2010-01_2026-05.csv"
+    },
+    "fewsnet_zw": {
+      "source_id": "fewsnet_zw",
+      "status": "skipped",
+      "rows_fetched": 0,
+      "rows_after_cleaning": 0,
+      "outlier_count": 0,
+      "latest_date": null,
+      "confidence_adjustment": null,
+      "reason": "FEWS NET ZW returns HTTP 500 (live check 2026-10-16); skipped by design"
+    },
+    "wfp_gmm": {
+      "source_id": "wfp_gmm",
+      "status": "ok",
+      "rows_fetched": 1166,
+      "rows_after_cleaning": 1166,
+      "outlier_count": 0,
+      "latest_date": "2026-06-01",
+      "confidence_adjustment": 1.0,
+      "raw_path_subnational": "data\\raw\\ZW_wfp_gmm_subnational_2026-10-16.csv",
+      "last_modified": "Wed, 15 Jul 2026 22:12:15 GMT",
+      "raw_path_national": "data\\raw\\ZW_wfp_gmm_national_2026-10-16.csv",
+      "outlier_note": "GMM publishes pre-computed % changes; no price levels to Hampel-filter",
+      "age_months": 4,
+      "regions_unmapped": [],
+      "clean_path": "data\\clean\\ZW_wfp_gmm_2022-04_2026-06.csv"
+    }
+  },
+  "signal_row_counts": {
+    "data_freshness_share": 1652,
+    "basket_cost_change": 1291,
+    "price_anom_nominal": 468,
+    "price_anom_real": 468
+  },
+  "output_csv": "data\\out\\signal_observation_prices_ZW_20261016T160407Z.csv",
+  "smoke_test": {
+    "zero_hard_failures": {
+      "pass": true,
+      "hard_failures": []
+    },
+    "no_values_from_missing": {
+      "pass": true,
+      "null_values": 0,
+      "zero_values": 137,
+      "note": "missing inputs are dropped, never filled; any value==0 is a genuine 0% change computed from observed prices"
+    },
+    "price_anom_real_populated": {
+      "pass": true,
+      "rows": 468
+    },
+    "idempotent_upsert": {
+      "pass": true,
+      "db": "data\\out\\signal_observation.sqlite",
+      "rows_before": 6397,
+      "rows_after": 10276
+    },
+    "zw_outliers_below_old_false_positive_count": {
+      "pass": true,
+      "outlier_count": 1222,
+      "outlier_count_if_currencies_mixed": 1676,
+      "previous_false_positives": 6149
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "country": "KE",
+  "run_at": "20261016T164827Z",
+  "as_of": null,
+  "sources": {
+    "ipc_phase": {
+      "source_id": "ipc_phase",
+      "status": "ok",
+      "rows_fetched": 4277,
+      "rows_after_cleaning": 276,
+      "latest_date": "2026-07-01",
+      "confidence_adjustment": 1.0,
+      "datasets_tried": {
+        "kenya-acute-food-insecurity-country-data": "used"
+      },
+      "dataset": "kenya-acute-food-insecurity-country-data",
+      "raw_path": "data\\raw\\KE_ipc_area_long_2026-10-16.csv",
+      "last_modified": "Tue, 15 Sep 2026 12:00:02 GMT",
+      "geojson_path": "data\\raw\\KE_ipc_areas_2026-10-16.geojson",
+      "projection_rows_skipped": 2219,
+      "unmatched_districts": [
+        "Dadaab",
+        "Kakuma",
+        "Kalobeyei"
+      ],
+      "unmatched_note": "IPC areas with no admin unit (e.g. refugee camps such as Dadaab/Kakuma are separate IPC areas, not counties); excluded from output, not dropped silently",
+      "match_methods": {
+        "exact": 32,
+        "sub_area_pooled": 9,
+        "gazetteer": 2
+      },
+      "rows_unmatched": 42,
+      "official_vs_derived": {
+        "compared": 23,
+        "agree": 23
+      },
+      "clean_path": "data\\clean\\KE_ipc_2021-02_2026-07.csv",
+      "latest_analysis": "2026-07",
+      "analyses": 12,
+      "units_covered": 23,
+      "phase_distribution": {
+        "1": 20,
+        "2": 174,
+        "3": 82
+      }
+    }
+  },
+  "signal_row_counts": {
+    "ipc_phase": 276
+  },
+  "output_csv": "data\\out\\signal_observation_ipc_KE_20261016T164827Z.csv",
+  "smoke_test": {
+    "zero_hard_failures": {
+      "pass": true,
+      "error": null
+    },
+    "ipc_phase_populated": {
+      "pass": true,
+      "rows": 276
+    },
+    "phase_in_1_to_5": {
+      "pass": true
+    },
+    "idempotent_upsert": {
+      "pass": true,
+      "db": "data\\out\\signal_observation.sqlite",
+      "rows_before": 15278,
+      "rows_after": 15554
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "country": "KE",
+  "run_at": "20261016T172751Z",
+  "as_of": null,
+  "admin_level": "ADM1",
+  "admin_units": 47,
+  "sources": {
+    "wfp_hdx_ke": {
+      "source_id": "wfp_hdx_ke",
+      "status": "ok",
+      "rows_fetched": 27541,
+      "rows_after_cleaning": 26688,
+      "outlier_count": 853,
+      "latest_date": "2026-09-01",
+      "confidence_adjustment": 1.0,
+      "raw_path": "data\\raw\\KE_wfp_hdx_2026-10-16.csv",
+      "last_modified": "Sun, 11 Oct 2026 15:03:00 GMT",
+      "invalid_price_rows": 0,
+      "outlier_grouping": "commodity_raw x unit x currency x price_type",
+      "rows_unlocated": 0,
+      "markets_unlocated": [],
+      "location_methods": {
+        "point_in_polygon": 224,
+        "name_match": 1,
+        "nearest_polygon_10km": 1
+      },
+      "earliest_date": "2006-01-01",
+      "age_months": 1,
+      "clean_path": "data\\clean\\KE_wfp_hdx_2006-01_2026-09.csv"
+    },
+    "fewsnet_ke": {
+      "source_id": "fewsnet_ke",
+      "status": "ok",
+      "rows_fetched": 1482,
+      "rows_after_cleaning": 1466,
+      "outlier_count": 8,
+      "latest_date": "2026-08-01",
+      "confidence_adjustment": 1.0,
+      "raw_path": "data\\raw\\KE_fewsnet_2026-10-16.csv",
+      "last_modified": null,
+      "usd_conversion": "WFP-implied monthly local/USD rate (median price/usdprice), ffill <= 3 months",
+      "invalid_price_rows": 8,
+      "outlier_grouping": "commodity_raw x unit x currency x price_type",
+      "rows_unlocated": 0,
+      "markets_unlocated": [],
+      "location_methods": {
+        "point_in_polygon": 1
+      },
+      "earliest_date": "2005-01-01",
+      "age_months": 2,
+      "clean_path": "data\\clean\\KE_fewsnet_2005-01_2026-08.csv"
+    },
+    "wfp_gmm": {
+      "source_id": "wfp_gmm",
+      "status": "ok",
+      "rows_fetched": 72,
+      "rows_after_cleaning": 72,
+      "outlier_count": 0,
+      "latest_date": "2021-05-01",
+      "confidence_adjustment": 0.25,
+      "raw_path_subnational": "data\\raw\\KE_wfp_gmm_subnational_2026-10-16.csv",
+      "last_modified": "Wed, 15 Jul 2026 22:12:15 GMT",
+      "raw_path_national": "data\\raw\\KE_wfp_gmm_national_2026-10-16.csv",
+      "outlier_note": "GMM publishes pre-computed % changes; no price levels to Hampel-filter",
+      "age_months": 65,
+      "regions_unmapped": [],
+      "clean_path": "data\\clean\\KE_wfp_gmm_2020-10_2021-05.csv"
+    }
+  },
+  "signal_row_counts": {
+    "data_freshness_share": 2662,
+    "market_coverage_drop": 2194,
+    "price_anom_nominal": 1791,
+    "price_anom_real": 1779,
+    "price_velocity_anom": 1500,
+    "basket_cost_change": 165,
+    "price_dispersion_anom": 36
+  },
+  "output_csv": "data\\out\\signal_observation_prices_KE_20261016T172751Z.csv",
+  "smoke_test": {
+    "zero_hard_failures": {
+      "pass": true,
+      "hard_failures": []
+    },
+    "no_values_from_missing": {
+      "pass": true,
+      "null_values": 0,
+      "zero_values": 2058,
+      "note": "missing inputs are dropped, never filled; any value==0 is a genuine 0% change computed from observed prices"
+    },
+    "price_anom_real_populated": {
+      "pass": true,
+      "rows": 1779
+    },
+    "derived_signals_populated": {
+      "pass": true,
+      "price_velocity_anom": 1500,
+      "price_dispersion_anom": 36,
+      "market_coverage_drop": 2194
+    },
+    "idempotent_upsert": {
+      "pass": true,
+      "db": "data\\out\\signal_observation.sqlite",
+      "rows_before": 15794,
+      "rows_after": 15794,
+      "tinydb_signals_updated_inserted_total": [
+        10127,
+        0,
+        15794
+      ]
+    }
+  }
+}

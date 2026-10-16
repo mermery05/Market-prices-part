@@ -5,11 +5,10 @@
 *.pem
 secrets.json
 
-# Data files (too big for git, may contain personal data)
+# Data files
+# Push: data/clean/, data/out/, data/geo/ (small, processed, demo-ready)
+# Skip: data/raw/ (raw downloads, regeneratable, big)
 data/raw/
-data/clean/
-data/out/
-data/geo/
 *.json.gz
 *.csv.gz
 

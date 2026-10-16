@@ -1,0 +1,1167 @@
+Date,MonthlyVersion,FrequencyName,CountryCode,CountryName,Admin1,DataLevel,MainStapleFood,PriceType,CaloricContribution,QuarterlyChangeNSA,MonthlyChangeNSA,QuarterlyChangeSA,MonthlyChangeSA,YoYChangeQuarter,YoYChangeMonth,PriceTrendQuarter,PriceTrendMonth,QuarterlyCostShare,TotImpactQuarterlyChange,TotImpactQuarterlyCode,TotImpactMonthlyChange,TotImpactMonthlyCode,LastModifyDate,period_start,period_end
+2022-04-01,68,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.740,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.743,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,105.0,121.0,N/A,N/A,38.0,,N/A,,N/A,2022-06-02 17:28:48.743,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,140.0,144.0,N/A,N/A,21.0,,N/A,,N/A,2022-06-02 17:28:48.743,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Harare,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,41.0,,N/A,,N/A,2022-06-02 17:28:48.743,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,28.0,3.0,26.0,-2.0,117.0,111.0,Severe,Negative,67.0,,Severe,,Moderate,2022-06-02 17:28:48.743,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,,26.0,Severe,3.0,Moderate,2022-06-02 17:28:48.747,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,22.0,4.0,0.0,-5.0,122.0,113.0,Normal,Negative,33.0,,Severe,,Moderate,2022-06-02 17:28:48.747,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.747,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.747,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.747,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.750,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.750,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,15.0,,10.0,,107.0,104.0,High,N/A,42.0,,High,,N/A,2022-06-02 17:28:48.750,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize,Retail,41.0,46.0,,24.0,,66.0,63.0,High,N/A,36.0,10.0,High,,N/A,2022-06-02 17:28:48.750,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,22.0,,3.0,,146.0,134.0,Moderate,N/A,23.0,,High,,N/A,2022-06-02 17:28:48.750,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,24.0,6.0,0.0,0.0,139.0,144.0,Normal,Normal,21.0,,High,,High,2022-06-02 17:28:48.750,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize,Retail,41.0,29.0,11.0,15.0,29.0,78.0,140.0,High,Severe,40.0,13.0,High,10.0,High,2022-06-02 17:28:48.750,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,22.0,-3.0,20.0,-4.0,104.0,99.0,High,Negative,39.0,,High,,High,2022-06-02 17:28:48.750,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,17.0,,11.0,,122.0,116.0,High,N/A,46.0,,Moderate,,N/A,2022-06-02 17:28:48.753,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,12.0,,-1.0,,150.0,142.0,Negative,N/A,22.0,,Moderate,,N/A,2022-06-02 17:28:48.753,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize,Retail,41.0,-10.0,,-7.0,,75.0,78.0,Negative,N/A,32.0,4.0,Moderate,,N/A,2022-06-02 17:28:48.753,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.753,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-06-02 17:28:48.753,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,31.0,,29.0,,137.0,158.0,Severe,N/A,45.0,,Negative,,N/A,2022-06-02 17:28:48.753,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,28.0,,6.0,,152.0,166.0,Moderate,N/A,22.0,,Negative,,N/A,2022-06-02 17:28:48.757,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,Midlands,Subnational,Maize,Retail,41.0,9.0,,-17.0,,25.0,38.0,Negative,N/A,32.0,-1.0,Negative,,N/A,2022-06-02 17:28:48.757,2022-04-01,2022-04-30
+2022-05-01,69,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-07-01 17:44:25.710,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-07-01 17:44:25.710,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,10.0,,2.0,,149.0,144.0,Normal,N/A,21.0,,High,,N/A,2022-07-01 17:44:25.710,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Harare,Subnational,Maize,Retail,41.0,,,,,135.0,,N/A,N/A,39.0,19.0,High,,N/A,2022-07-01 17:44:25.710,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,25.0,,14.0,,124.0,121.0,High,N/A,41.0,,High,,N/A,2022-07-01 17:44:25.713,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,27.0,,26.0,,111.0,111.0,Severe,N/A,67.0,,Severe,,N/A,2022-07-01 17:44:25.713,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,22.0,,3.0,,117.0,113.0,Moderate,N/A,33.0,,Severe,,N/A,2022-07-01 17:44:25.713,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,,25.0,Severe,,N/A,2022-07-01 17:44:25.713,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-07-01 17:44:25.713,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-07-01 17:44:25.713,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,187.0,,156.0,,319.0,326.0,Severe,N/A,61.0,,Severe,,N/A,2022-07-01 17:44:25.717,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,279.0,,172.0,,544.0,487.0,Severe,N/A,39.0,,Severe,,N/A,2022-07-01 17:44:25.717,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,,216.0,Severe,,N/A,2022-07-01 17:44:25.717,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize,Retail,41.0,56.0,,51.0,,117.0,175.0,Severe,N/A,33.0,41.0,Severe,,N/A,2022-07-01 17:44:25.720,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,65.0,,37.0,,240.0,342.0,Severe,N/A,24.0,,Severe,,N/A,2022-07-01 17:44:25.720,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,52.0,,34.0,,172.0,235.0,Severe,N/A,43.0,,Severe,,N/A,2022-07-01 17:44:25.720,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize,Retail,41.0,65.0,41.0,88.0,52.0,157.0,264.0,Severe,Severe,39.0,61.0,Severe,79.0,Severe,2022-07-01 17:44:25.720,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,67.0,105.0,41.0,106.0,232.0,404.0,Severe,Severe,22.0,,Severe,,Severe,2022-07-01 17:44:25.723,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,52.0,100.0,44.0,96.0,167.0,291.0,Severe,Severe,39.0,,Severe,,Severe,2022-07-01 17:44:25.723,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize,Retail,41.0,-5.0,,-7.0,,71.0,78.0,Negative,N/A,31.0,5.0,Moderate,,N/A,2022-07-01 17:44:25.723,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,12.0,,-1.0,,142.0,142.0,Negative,N/A,22.0,,Moderate,,N/A,2022-07-01 17:44:25.723,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,23.0,,8.0,,131.0,116.0,Moderate,N/A,47.0,,Moderate,,N/A,2022-07-01 17:44:25.727,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-07-01 17:44:25.727,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-07-01 17:44:25.727,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,50.0,,41.0,,187.0,215.0,Severe,N/A,41.0,,Severe,,N/A,2022-07-01 17:44:25.727,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,70.0,,41.0,,247.0,328.0,Severe,N/A,23.0,,Severe,,N/A,2022-07-01 17:44:25.730,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,Midlands,Subnational,Maize,Retail,41.0,61.0,,48.0,,127.0,318.0,Severe,N/A,36.0,34.0,Severe,,N/A,2022-07-01 17:44:25.730,2022-05-01,2022-05-31
+2022-06-01,70,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.917,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.920,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.920,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Harare,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.920,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.920,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,,13.0,High,,N/A,2022-07-15 16:44:22.920,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,13.0,,8.0,,106.0,111.0,Moderate,N/A,67.0,,High,,N/A,2022-07-15 16:44:22.920,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,12.0,,1.0,,108.0,113.0,Normal,N/A,33.0,,High,,N/A,2022-07-15 16:44:22.920,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.920,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.923,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,,,N/A,,N/A,2022-07-15 16:44:22.923,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,316.0,326.0,N/A,N/A,61.0,,N/A,,N/A,2022-07-15 16:44:22.923,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,508.0,487.0,N/A,N/A,39.0,,N/A,,N/A,2022-07-15 16:44:22.923,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize,Retail,41.0,60.0,,71.0,,171.0,175.0,Severe,N/A,32.0,67.0,Severe,,N/A,2022-07-15 16:44:22.927,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,103.0,,81.0,,327.0,342.0,Severe,N/A,26.0,,Severe,,N/A,2022-07-15 16:44:22.927,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,78.0,,62.0,,227.0,235.0,Severe,N/A,43.0,,Severe,,N/A,2022-07-15 16:44:22.927,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,77.0,,59.0,,260.0,404.0,Severe,N/A,23.0,,Severe,,N/A,2022-07-15 16:44:22.927,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,56.0,,48.0,,191.0,291.0,Severe,N/A,39.0,,Severe,,N/A,2022-07-15 16:44:22.927,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize,Retail,41.0,61.0,,100.0,,198.0,264.0,Severe,N/A,38.0,69.0,Severe,,N/A,2022-07-15 16:44:22.927,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.930,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.930,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.930,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.930,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-07-15 16:44:22.930,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,92.0,,70.0,,319.0,328.0,Severe,N/A,23.0,,Severe,,N/A,2022-07-15 16:44:22.930,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Midlands,Subnational,Maize,Retail,41.0,105.0,,142.0,,242.0,318.0,Severe,N/A,39.0,71.0,Severe,,N/A,2022-07-15 16:44:22.933,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,52.0,,38.0,,215.0,215.0,Severe,N/A,38.0,,Severe,,N/A,2022-07-15 16:44:22.933,2022-06-01,2022-06-30
+2022-07-01,71,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.930,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.930,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.930,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.930,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.930,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.930,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,109.0,,82.0,,305.0,309.0,Severe,N/A,30.0,,Severe,,N/A,2022-09-01 19:10:54.930,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,179.0,,223.0,,448.0,433.0,Severe,N/A,19.0,,Severe,,N/A,2022-09-01 19:10:54.930,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,161.0,,245.0,,338.0,330.0,Severe,N/A,50.0,177.0,Severe,,N/A,2022-09-01 19:10:54.933,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.933,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.933,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.933,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,573.0,663.0,N/A,N/A,20.0,,N/A,,N/A,2022-09-01 19:10:54.933,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,382.0,503.0,N/A,N/A,50.0,,N/A,,N/A,2022-09-01 19:10:54.933,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,347.0,368.0,N/A,N/A,29.0,,N/A,,N/A,2022-09-01 19:10:54.933,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,173.0,13.0,266.0,5.0,320.0,413.0,Severe,Moderate,50.0,191.0,Severe,5.0,Moderate,2022-09-01 19:10:54.933,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,180.0,21.0,223.0,11.0,491.0,615.0,Severe,High,21.0,,Severe,,Moderate,2022-09-01 19:10:54.937,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,111.0,4.0,41.0,-2.0,293.0,342.0,Severe,Negative,29.0,,Severe,,Moderate,2022-09-01 19:10:54.937,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,194.0,4.0,285.0,-9.0,377.0,465.0,Severe,Negative,50.0,213.0,Severe,-10.0,Negative,2022-09-01 19:10:54.937,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,143.0,7.0,92.0,-12.0,364.0,417.0,Severe,Negative,30.0,,Severe,,Negative,2022-09-01 19:10:54.937,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,195.0,5.0,237.0,-9.0,529.0,600.0,Severe,Negative,20.0,,Severe,,Negative,2022-09-01 19:10:54.937,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.937,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.937,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,119.0,0.0,32.0,-11.0,367.0,437.0,Severe,Negative,29.0,,Severe,,Negative,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,212.0,0.0,370.0,-30.0,422.0,509.0,Severe,Negative,50.0,215.0,Severe,-21.0,Negative,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,208.0,0.0,230.0,-15.0,586.0,695.0,Severe,Negative,20.0,,Severe,,Negative,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-08-01,72,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.350,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.350,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.350,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.350,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,161.0,,245.0,,334.0,330.0,Severe,N/A,50.0,134.0,Severe,,N/A,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,109.0,,82.0,,289.0,309.0,Severe,N/A,30.0,,Severe,,N/A,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,179.0,,223.0,,421.0,433.0,Severe,N/A,19.0,,Severe,,N/A,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,14.0,,-6.0,,353.0,368.0,Negative,N/A,27.0,,High,,N/A,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,50.0,,31.0,,470.0,503.0,Severe,N/A,52.0,19.0,High,,N/A,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,38.0,,26.0,,636.0,663.0,Severe,N/A,21.0,,High,,N/A,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,105.0,,101.0,,387.0,413.0,Severe,N/A,50.0,93.0,Severe,,N/A,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,124.0,,102.0,,548.0,615.0,Severe,N/A,21.0,,Severe,,N/A,2022-09-30 09:06:14.357,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,69.0,,17.0,,314.0,342.0,High,N/A,28.0,,Severe,,N/A,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,121.0,,128.0,,438.0,465.0,Severe,N/A,50.0,106.0,Severe,,N/A,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,134.0,,116.0,,583.0,600.0,Severe,N/A,20.0,,Severe,,N/A,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,98.0,,46.0,,394.0,417.0,Severe,N/A,30.0,,Severe,,N/A,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,105.0,,28.0,,420.0,437.0,Severe,N/A,29.0,,Severe,,N/A,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,157.0,,125.0,,676.0,695.0,Severe,N/A,21.0,,Severe,,N/A,2022-09-30 09:06:14.360,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,126.0,,137.0,,507.0,509.0,Severe,N/A,50.0,109.0,Severe,,N/A,2022-09-30 09:06:14.367,2022-08-01,2022-08-31
+2022-09-01,73,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.863,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.863,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.863,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.863,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.863,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.863,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,156.0,-1.0,127.0,-9.0,756.0,677.0,Severe,Negative,19.0,,Severe,,Negative,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,143.0,-6.0,68.0,-7.0,564.0,504.0,Severe,Negative,31.0,,Severe,,Negative,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,154.0,-5.0,143.0,-9.0,665.0,626.0,Severe,Negative,50.0,111.0,Severe,-8.0,Negative,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,58.0,,30.0,,628.0,699.0,Severe,N/A,20.0,,Severe,,N/A,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,52.0,,21.0,,425.0,545.0,High,N/A,30.0,,Severe,,N/A,2022-11-02 11:59:25.870,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,57.0,,37.0,,488.0,589.0,Severe,N/A,50.0,40.0,Severe,,N/A,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,64.0,,16.0,,451.0,513.0,High,N/A,30.0,,Severe,,N/A,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,74.0,,53.0,,531.0,613.0,Severe,N/A,50.0,44.0,Severe,,N/A,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,76.0,,49.0,,661.0,758.0,Severe,N/A,20.0,,Severe,,N/A,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,25.0,-11.0,-11.0,-8.0,482.0,434.0,Negative,Negative,49.0,5.0,Moderate,-7.0,Negative,2022-11-02 11:59:25.873,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,31.0,-11.0,3.0,-6.0,621.0,537.0,Moderate,Negative,20.0,,Moderate,,Negative,2022-11-02 11:59:25.880,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,33.0,-7.0,3.0,-5.0,416.0,383.0,Moderate,Negative,30.0,,Moderate,,Negative,2022-11-02 11:59:25.880,2022-09-01,2022-09-30
+2022-10-01,74,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,81.0,,34.0,,533.0,504.0,Severe,N/A,31.0,,Severe,,N/A,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,78.0,,57.0,,647.0,626.0,Severe,N/A,50.0,49.0,Severe,,N/A,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,74.0,,48.0,,712.0,677.0,Severe,N/A,19.0,,Severe,,N/A,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.740,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,75.0,,44.0,,474.0,545.0,Severe,N/A,32.0,,Severe,,N/A,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,47.0,,25.0,,622.0,699.0,Severe,N/A,19.0,,Severe,,N/A,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,61.0,,42.0,,545.0,589.0,Severe,N/A,50.0,25.0,Severe,,N/A,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,48.0,,30.0,,590.0,613.0,Severe,N/A,51.0,14.0,High,,N/A,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,37.0,,10.0,,447.0,513.0,High,N/A,29.0,,High,,N/A,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,43.0,,25.0,,664.0,758.0,Severe,N/A,20.0,,High,,N/A,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.743,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,24.0,,4.0,,389.0,383.0,Moderate,N/A,31.0,,Negative,,N/A,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,16.0,,-3.0,,557.0,537.0,Negative,N/A,20.0,,Negative,,N/A,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,15.0,,-9.0,,459.0,434.0,Negative,N/A,49.0,-5.0,Negative,,N/A,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-11-01,75,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.783,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.783,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.783,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.783,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.783,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.783,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,23.0,,13.0,,632.0,626.0,High,N/A,50.0,8.0,Moderate,,N/A,2023-01-13 12:10:04.783,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,22.0,,8.0,,450.0,504.0,Moderate,N/A,30.0,,Moderate,,N/A,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,26.0,,11.0,,599.0,677.0,High,N/A,19.0,,Moderate,,N/A,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.790,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.793,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.800,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-01-13 12:10:04.800,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,-1.0,,-5.0,,325.0,383.0,Negative,N/A,31.0,,Negative,,N/A,2023-01-13 12:10:04.800,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,-10.0,,-14.0,,440.0,537.0,Negative,N/A,20.0,,Negative,,N/A,2023-01-13 12:10:04.800,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,-8.0,,-19.0,,408.0,434.0,Negative,N/A,49.0,-18.0,Negative,,N/A,2023-01-13 12:10:04.800,2022-11-01,2022-11-30
+2022-12-01,76,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.627,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.627,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.627,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.630,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.630,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.630,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.630,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.630,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.637,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.637,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.637,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.637,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.637,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.637,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.637,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.637,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.640,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.640,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.640,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.647,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.650,2022-12-01,2022-12-31
+2023-01-01,77,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.487,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.487,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.487,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.487,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.487,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.487,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.487,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.490,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.497,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.500,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.500,2023-01-01,2023-01-31
+2023-02-01,78,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.767,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.790,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.790,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.790,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.790,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.797,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.797,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.797,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.797,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.797,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.797,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.797,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.800,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.800,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.800,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.800,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.800,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.800,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.800,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.800,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.830,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.830,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.830,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.837,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.837,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.837,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.837,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.840,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.840,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.840,2023-02-01,2023-02-28
+2023-06-01,82,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.227,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.227,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.227,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.227,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.230,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.230,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.237,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.237,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.237,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.240,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.240,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.247,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.247,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.247,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.250,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.250,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.250,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.257,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.257,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.257,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.257,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.260,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.267,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.270,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.270,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.270,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.277,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.277,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.277,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.277,2023-06-01,2023-06-30
+2023-09-01,85,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,109.0,,27.0,,,,Severe,N/A,40.0,,High,,N/A,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,47.0,,-14.0,,,,Negative,N/A,11.0,,High,,N/A,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,96.0,,10.0,,,,High,N/A,49.0,16.0,High,,N/A,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,25.0,9.0,-18.0,9.0,373.0,321.0,Negative,Moderate,13.0,,High,,Negative,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,240.0,,108.0,,681.0,323.0,Severe,N/A,55.0,14.0,High,-1.0,Negative,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,27.0,-5.0,-15.0,0.0,632.0,496.0,Negative,Normal,32.0,,High,,Negative,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,43.0,,-67.0,,,,Negative,N/A,58.0,-29.0,Negative,,N/A,2023-10-16 18:13:44.387,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,15.0,,-12.0,,,,Negative,N/A,13.0,,Negative,,N/A,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,38.0,,-4.0,,,,Negative,N/A,29.0,,Negative,,N/A,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,73.0,-8.0,163.0,-9.0,1144.0,1239.0,Severe,Negative,39.0,,Severe,,Negative,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,28.0,0.0,114.0,0.0,592.0,647.0,Severe,Normal,46.0,57.0,Severe,-5.0,Negative,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,56.0,-11.0,223.0,-9.0,512.0,604.0,Severe,Negative,15.0,,Severe,,Negative,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,62.0,-9.0,48.0,164.0,754.0,630.0,Severe,Severe,37.0,,Moderate,,Severe,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,41.0,-18.0,28.0,153.0,581.0,539.0,Severe,Severe,49.0,7.0,Moderate,169.0,Severe,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,35.0,-12.0,33.0,229.0,404.0,371.0,Severe,Severe,14.0,,Moderate,,Severe,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,30.0,17.0,-8.0,22.0,845.0,858.0,Negative,High,49.0,-15.0,Negative,18.0,High,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,47.0,19.0,0.0,37.0,630.0,678.0,Normal,Severe,15.0,,Negative,,High,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,57.0,5.0,1.0,6.0,1024.0,938.0,Normal,Moderate,36.0,,Negative,,High,2023-10-16 18:13:44.393,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,74.0,,-19.0,,1554.0,1554.0,Negative,N/A,33.0,,Severe,,N/A,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,48.0,,-18.0,,1386.0,1386.0,Negative,N/A,50.0,46.0,Severe,,N/A,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,76.0,,-19.0,,1050.0,1050.0,Negative,N/A,16.0,,Severe,,N/A,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,86.0,,-40.0,,845.0,845.0,Negative,N/A,51.0,94.0,Severe,,N/A,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,72.0,,-65.0,,287.0,287.0,Negative,N/A,10.0,,Severe,,N/A,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,123.0,,-31.0,,957.0,957.0,Negative,N/A,39.0,,Severe,,N/A,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,58.0,-19.0,-2.0,-22.0,789.0,590.0,Negative,Negative,38.0,,Negative,,Negative,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,54.0,-29.0,-7.0,-29.0,431.0,295.0,Negative,Negative,15.0,,Negative,,Negative,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,46.0,-28.0,-2.0,-30.0,572.0,388.0,Negative,Negative,47.0,-9.0,Negative,-27.0,Negative,2023-10-16 18:13:44.397,2023-09-01,2023-09-30
+2023-10-01,86,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,-54.0,,-61.0,,211.0,,Negative,N/A,6.0,,Negative,,N/A,2023-12-04 17:15:19.390,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,12.0,,-6.0,,893.0,,Negative,N/A,51.0,-57.0,Negative,,N/A,2023-12-04 17:15:19.390,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,18.0,,-9.0,,1241.0,,Negative,N/A,42.0,,Negative,,N/A,2023-12-04 17:15:19.390,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-12-04 17:15:19.397,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-12-04 17:15:19.397,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-12-04 17:15:19.397,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,-40.0,0.0,-61.0,-8.0,284.0,246.0,Negative,Negative,43.0,-49.0,Negative,-8.0,Negative,2023-12-04 17:15:19.397,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,6.0,2.0,-32.0,-9.0,300.0,288.0,Negative,Negative,17.0,,Negative,,Negative,2023-12-04 17:15:19.397,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,3.0,-2.0,-27.0,-8.0,504.0,484.0,Negative,Negative,40.0,,Negative,,Negative,2023-12-04 17:15:19.397,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,-26.0,0.0,-59.0,-83.0,375.0,300.0,Negative,Negative,15.0,,Negative,,Negative,2023-12-04 17:15:19.397,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,-7.0,0.0,-44.0,-76.0,565.0,479.0,Negative,Negative,36.0,,Negative,,Negative,2023-12-04 17:15:19.400,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,-32.0,0.0,-85.0,-75.0,513.0,513.0,Negative,Negative,49.0,-76.0,Negative,-77.0,Negative,2023-12-04 17:15:19.400,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,11.0,-8.0,174.0,-79.0,322.0,266.0,Severe,Negative,15.0,,Severe,,Negative,2023-12-04 17:15:19.400,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,25.0,,207.0,,403.0,,Severe,N/A,52.0,48.0,Severe,-12.0,Negative,2023-12-04 17:15:19.400,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,7.0,-14.0,87.0,-72.0,505.0,343.0,Severe,Negative,33.0,,Severe,,Negative,2023-12-04 17:15:19.400,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,8.0,11.0,68.0,-13.0,573.0,539.0,Severe,Negative,51.0,30.0,Severe,-10.0,Negative,2023-12-04 17:15:19.400,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,9.0,2.0,64.0,-7.0,648.0,630.0,Severe,Negative,36.0,,Severe,,Negative,2023-12-04 17:15:19.400,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,-1.0,2.0,99.0,-5.0,378.0,371.0,Severe,Negative,14.0,,Severe,,Negative,2023-12-04 17:15:19.400,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,14.0,11.0,-14.0,-10.0,749.0,741.0,Negative,Negative,50.0,-19.0,Negative,-7.0,Negative,2023-12-04 17:15:19.407,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,7.0,9.0,-18.0,0.0,906.0,924.0,Negative,Normal,35.0,,Negative,,Negative,2023-12-04 17:15:19.407,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,7.0,5.0,-14.0,-9.0,583.0,622.0,Negative,Negative,15.0,,Negative,,Negative,2023-12-04 17:15:19.407,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,16.0,0.0,23.0,-68.0,1072.0,1072.0,High,Negative,32.0,,Severe,,Negative,2023-12-04 17:15:19.407,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,21.0,0.0,45.0,-74.0,1049.0,1049.0,Severe,Negative,55.0,34.0,Severe,-73.0,Negative,2023-12-04 17:15:19.410,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,0.0,0.0,41.0,-76.0,640.0,640.0,Severe,Negative,13.0,,Severe,,Negative,2023-12-04 17:15:19.410,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-12-04 17:15:19.410,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-12-04 17:15:19.410,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-12-04 17:15:19.410,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,5.0,,-11.0,,642.0,693.0,Negative,N/A,49.0,-17.0,Negative,-23.0,Negative,2023-12-04 17:15:19.410,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,-8.0,-30.0,-19.0,-32.0,458.0,351.0,Negative,Negative,15.0,,Negative,,Negative,2023-12-04 17:15:19.410,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,2.0,-21.0,-13.0,-23.0,767.0,640.0,Negative,Negative,36.0,,Negative,,Negative,2023-12-04 17:15:19.410,2023-10-01,2023-10-31
+2023-11-01,87,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.590,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.590,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.590,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.590,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.590,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.597,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,-2.0,,-31.0,,326.0,288.0,Negative,N/A,18.0,,Negative,,N/A,2023-12-18 15:12:55.597,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,-13.0,,-30.0,,527.0,484.0,Negative,N/A,41.0,,Negative,,N/A,2023-12-18 15:12:55.597,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,-48.0,,-63.0,,272.0,246.0,Negative,N/A,41.0,-45.0,Negative,,N/A,2023-12-18 15:12:55.597,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,-34.0,,-65.0,,478.0,479.0,Negative,N/A,34.0,,Negative,,N/A,2023-12-18 15:12:55.600,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,-46.0,,-73.0,,261.0,300.0,Negative,N/A,13.0,,Negative,,N/A,2023-12-18 15:12:55.600,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,-46.0,,-85.0,,500.0,513.0,Negative,N/A,52.0,-86.0,Negative,,N/A,2023-12-18 15:12:55.600,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,-20.0,,-5.0,,285.0,266.0,Negative,N/A,14.0,,Negative,,N/A,2023-12-18 15:12:55.607,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,-37.0,,-35.0,,363.0,343.0,Negative,N/A,28.0,,Negative,,N/A,2023-12-18 15:12:55.607,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,4.0,,76.0,,428.0,,Severe,N/A,57.0,-36.0,Negative,,N/A,2023-12-18 15:12:55.607,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,-15.0,,157.0,,,,Severe,N/A,14.0,,Severe,,N/A,2023-12-18 15:12:55.607,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,-9.0,,100.0,,,,Severe,N/A,36.0,,Severe,,N/A,2023-12-18 15:12:55.610,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,-5.0,,112.0,,,,Severe,N/A,51.0,124.0,Severe,,N/A,2023-12-18 15:12:55.610,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,-1.0,,-7.0,,653.0,622.0,Negative,N/A,15.0,,Negative,,N/A,2023-12-18 15:12:55.617,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,-9.0,,-23.0,,917.0,924.0,Negative,N/A,34.0,,Negative,,N/A,2023-12-18 15:12:55.620,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,3.0,,-15.0,,786.0,741.0,Negative,N/A,50.0,-16.0,Negative,,N/A,2023-12-18 15:12:55.620,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,-22.0,,76.0,,567.0,640.0,Severe,N/A,13.0,,Negative,,N/A,2023-12-18 15:12:55.620,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,-1.0,,80.0,,1140.0,1049.0,Severe,N/A,55.0,-32.0,Negative,,N/A,2023-12-18 15:12:55.620,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,-10.0,,49.0,,1136.0,1072.0,Severe,N/A,32.0,,Negative,,N/A,2023-12-18 15:12:55.620,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.627,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.627,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-12-18 15:12:55.627,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,-20.0,,-23.0,,430.0,351.0,Negative,N/A,14.0,,Negative,,N/A,2023-12-18 15:12:55.627,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,-14.0,,-22.0,,718.0,640.0,Negative,N/A,34.0,,Negative,,N/A,2023-12-18 15:12:55.627,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,-2.0,,-10.0,,656.0,693.0,Negative,N/A,51.0,-20.0,Negative,,N/A,2023-12-18 15:12:55.627,2023-11-01,2023-11-30
+2023-12-01,88,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.207,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.207,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.207,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.207,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.207,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,2.0,,-19.0,,345.0,288.0,Negative,N/A,18.0,,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,-37.0,,-49.0,,273.0,246.0,Negative,N/A,41.0,-29.0,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,-11.0,,-22.0,,517.0,484.0,Negative,N/A,41.0,,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,-25.0,,-83.0,,500.0,513.0,Negative,N/A,52.0,-78.0,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,-24.0,,-83.0,,478.0,479.0,Negative,N/A,34.0,,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,-32.0,,-89.0,,261.0,300.0,Negative,N/A,13.0,,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,-35.0,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,-24.0,,-76.0,,282.0,266.0,Negative,N/A,34.0,,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,-40.0,,-75.0,,334.0,343.0,Negative,N/A,66.0,,Negative,,N/A,2024-02-01 17:47:00.213,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,-3.0,,51.0,,613.0,,Severe,N/A,35.0,,High,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,-3.0,,76.0,,361.0,,Severe,N/A,13.0,,High,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,6.0,,49.0,,558.0,,Severe,N/A,52.0,20.0,High,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,9.0,,-12.0,,804.0,741.0,Negative,N/A,51.0,-4.0,Negative,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,3.0,,-5.0,,666.0,622.0,Negative,N/A,15.0,,Negative,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,-2.0,,-12.0,,954.0,924.0,Negative,N/A,34.0,,Negative,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,0.0,,-61.0,,1141.0,1049.0,Negative,N/A,55.0,-60.0,Negative,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,-15.0,,-65.0,,583.0,640.0,Negative,N/A,13.0,,Negative,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,-9.0,,-57.0,,1118.0,1072.0,Negative,N/A,32.0,,Negative,,N/A,2024-02-01 17:47:00.217,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,-33.0,,-34.0,,284.0,351.0,Negative,N/A,28.0,,Negative,,N/A,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,-27.0,Negative,,N/A,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,-24.0,,-28.0,,583.0,640.0,Negative,N/A,72.0,,Negative,,N/A,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2024-01-01,89,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.933,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.937,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.943,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.943,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.943,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.943,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.943,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.943,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.943,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.943,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.947,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.953,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.953,2024-01-01,2024-01-31
+2024-02-01,90,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.353,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.353,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.353,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.353,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.353,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.353,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,2.0,-31.0,1.0,-50.0,537.0,401.0,Normal,Negative,15.0,,High,,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,-2.0,-39.0,21.0,-55.0,756.0,474.0,High,Negative,37.0,,High,,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,82.0,,11.0,,521.0,453.0,High,N/A,48.0,16.0,High,-36.0,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,16.0,-23.0,137.0,-37.0,,,Severe,Negative,54.0,312.0,Severe,-30.0,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,-1.0,-28.0,298.0,-16.0,,,Severe,Negative,31.0,,Severe,,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,3.0,-7.0,154.0,-11.0,,,Severe,Negative,15.0,,Severe,,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,30.0,15.0,-14.0,2.0,552.0,538.0,Negative,Normal,31.0,,Negative,,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,11.0,14.0,-56.0,10.0,350.0,371.0,Negative,High,12.0,,Negative,,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,44.0,19.0,-69.0,-9.0,607.0,542.0,Negative,Negative,57.0,-15.0,Negative,-3.0,Negative,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,3.0,0.0,-57.0,161.0,319.0,352.0,Negative,Severe,15.0,,Negative,,Normal,2024-03-15 15:51:27.357,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,-3.0,0.0,-35.0,165.0,507.0,548.0,Negative,Severe,37.0,,Negative,,Normal,2024-03-15 15:51:27.363,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,-14.0,,-74.0,,384.0,384.0,Negative,N/A,48.0,-62.0,Negative,0.0,Normal,2024-03-15 15:51:27.363,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,26.0,-35.0,11.0,-38.0,672.0,464.0,High,Negative,14.0,,High,,Negative,2024-03-15 15:51:27.363,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,24.0,-23.0,41.0,-28.0,917.0,693.0,Severe,Negative,34.0,,High,,Negative,2024-03-15 15:51:27.363,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,28.0,-61.0,7.0,-63.0,771.0,334.0,Moderate,Negative,52.0,14.0,High,-49.0,Negative,2024-03-15 15:51:27.363,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.363,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.363,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.367,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.367,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.367,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.367,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.367,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.367,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-03-15 15:51:27.367,2024-02-01,2024-02-29
+2024-03-01,91,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,45.0,,298.0,,839.0,632.0,Severe,N/A,15.0,,Negative,,N/A,2024-04-15 09:38:15.093,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,3.0,,295.0,,832.0,650.0,Severe,N/A,27.0,,Negative,,N/A,2024-04-15 09:38:15.093,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,49.0,,156.0,,1072.0,997.0,Severe,N/A,58.0,-4.0,Negative,,N/A,2024-04-15 09:38:15.100,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.100,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.100,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.100,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,65.0,,60.0,,685.0,539.0,Severe,N/A,13.0,,Severe,,N/A,2024-04-15 09:38:15.103,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,50.0,,84.0,,840.0,689.0,Severe,N/A,30.0,,Severe,,N/A,2024-04-15 09:38:15.103,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,147.0,,101.0,,892.0,485.0,Severe,N/A,58.0,72.0,Severe,,N/A,2024-04-15 09:38:15.103,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,-5.0,11.0,106.0,10.0,,,Severe,High,14.0,,Severe,,High,2024-04-15 09:38:15.103,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,6.0,35.0,169.0,31.0,,,Severe,Severe,33.0,,Severe,,High,2024-04-15 09:38:15.103,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,13.0,15.0,86.0,16.0,,,Severe,High,53.0,283.0,Severe,21.0,High,2024-04-15 09:38:15.103,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,19.0,0.0,120.0,728.0,593.0,541.0,Severe,Severe,58.0,0.0,Normal,706.0,Severe,2024-04-15 09:38:15.103,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,-13.0,-7.0,144.0,811.0,367.0,412.0,Severe,Severe,12.0,,Normal,,Severe,2024-04-15 09:38:15.103,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,-14.0,12.0,112.0,586.0,513.0,484.0,Severe,Severe,30.0,,Normal,,Severe,2024-04-15 09:38:15.110,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,40.0,0.0,32.0,-4.0,666.0,,Severe,Negative,55.0,32.0,Severe,2.0,Normal,2024-04-15 09:38:15.110,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,27.0,10.0,56.0,4.0,620.0,548.0,Severe,Moderate,32.0,,Severe,,Normal,2024-04-15 09:38:15.110,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,36.0,13.0,7.0,15.0,419.0,352.0,Moderate,High,14.0,,Severe,,Normal,2024-04-15 09:38:15.110,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,15.0,,-11.0,,645.0,334.0,Negative,N/A,51.0,-6.0,Negative,,N/A,2024-04-15 09:38:15.110,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,22.0,,4.0,,600.0,464.0,Moderate,N/A,15.0,,Negative,,N/A,2024-04-15 09:38:15.113,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,16.0,,10.0,,811.0,693.0,High,N/A,34.0,,Negative,,N/A,2024-04-15 09:38:15.123,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.123,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.130,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.130,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.133,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.133,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-04-15 09:38:15.133,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,22.0,17.0,13.0,5.0,479.0,521.0,High,Moderate,12.0,,Normal,,Negative,2024-04-15 09:38:15.133,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,26.0,16.0,13.0,-6.0,647.0,623.0,High,Negative,31.0,,Normal,,Negative,2024-04-15 09:38:15.133,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,32.0,1.0,-11.0,-5.0,647.0,680.0,Negative,Negative,56.0,1.0,Normal,-4.0,Negative,2024-04-15 09:38:15.140,2024-03-01,2024-03-31
+2024-04-01,92,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,52.0,,715.0,,843.0,,Severe,N/A,15.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,49.0,,734.0,,683.0,,Severe,N/A,30.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,38.0,,375.0,,971.0,,Severe,N/A,56.0,-27.0,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,8.0,,-8.0,,549.0,689.0,Negative,N/A,37.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,7.0,,-19.0,,465.0,539.0,Negative,N/A,15.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,-19.0,,-48.0,,419.0,485.0,Negative,N/A,49.0,-32.0,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,10.0,,17.0,,43.0,,High,N/A,52.0,-81.0,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,7.0,,50.0,,35.0,,Severe,N/A,15.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,15.0,,90.0,,74.0,,Severe,N/A,33.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,4.0,,304.0,,395.0,412.0,Severe,N/A,12.0,,Severe,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,4.0,,213.0,,519.0,484.0,Severe,N/A,30.0,,Severe,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,22.0,,248.0,,541.0,541.0,Severe,N/A,58.0,80.0,Severe,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,47.0,,43.0,,221.0,,Severe,N/A,53.0,-8.0,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,29.0,,164.0,,265.0,,Severe,N/A,33.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,38.0,,115.0,,237.0,,Severe,N/A,14.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,-10.0,,-20.0,,504.0,693.0,Negative,N/A,42.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,-48.0,,-58.0,,256.0,334.0,Negative,N/A,41.0,-53.0,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,-20.0,,-30.0,,345.0,464.0,Negative,N/A,17.0,,Negative,,N/A,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.510,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,29.0,,13.0,,569.0,623.0,High,N/A,31.0,,Negative,,N/A,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,25.0,,-1.0,,642.0,680.0,Negative,N/A,56.0,-8.0,Negative,,N/A,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,32.0,,27.0,,467.0,521.0,Severe,N/A,13.0,,Negative,,N/A,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-05-01,93,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.777,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,37.0,,31.0,,102.0,,Severe,N/A,16.0,,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,16.0,,0.0,,90.0,,Normal,N/A,50.0,-94.0,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,36.0,,46.0,,142.0,,Severe,N/A,34.0,,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,14.0,,577.0,,224.0,,Severe,N/A,57.0,66.0,Severe,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,11.0,,461.0,,203.0,,Severe,N/A,31.0,,Severe,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,-3.0,,687.0,,141.0,,Severe,N/A,12.0,,Severe,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,19.0,,51.0,,189.0,,Severe,N/A,52.0,-44.0,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,26.0,,101.0,,219.0,,Severe,N/A,33.0,,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,33.0,,116.0,,206.0,,Severe,N/A,15.0,,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,15.0,,-11.0,,423.0,-99.0,Negative,N/A,82.0,-58.0,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,-100.0,,-100.0,,-99.0,-99.0,Negative,N/A,0.0,,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,-13.0,,-28.0,,255.0,-100.0,Negative,N/A,18.0,,Negative,,N/A,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,46.0,,13.0,,477.0,739.0,High,N/A,53.0,,Negative,,Normal,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,-57.0,0.0,-63.0,2.0,105.0,-99.0,Negative,Normal,29.0,-47.0,Negative,0.0,Normal,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,32.0,,22.0,,335.0,521.0,High,N/A,19.0,,Negative,,Normal,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-06-01,94,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:21.920,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:21.920,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:21.937,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:21.950,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:21.950,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:21.983,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:21.983,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:21.983,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.000,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.013,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.013,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.013,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.013,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.030,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.047,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.060,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.060,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.077,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,54.0,-100.0,Negative,,N/A,2024-07-15 15:07:22.077,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,-100.0,,-100.0,,-100.0,-100.0,Negative,N/A,11.0,,Negative,,N/A,2024-07-15 15:07:22.077,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,35.0,,Negative,,N/A,2024-07-15 15:07:22.077,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.077,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.123,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.123,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.157,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.187,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-07-15 15:07:22.217,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,-100.0,,-100.0,,-99.0,-99.0,Negative,N/A,100.0,-100.0,Negative,,N/A,2024-07-15 15:07:22.217,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,Negative,,N/A,2024-07-15 15:07:22.217,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Negative,,N/A,2024-07-15 15:07:22.263,2024-06-01,2024-06-30
+2024-07-01,95,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.343,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.343,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.343,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.343,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,54.0,-100.0,Negative,,N/A,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,-100.0,,-100.0,,-100.0,-100.0,Negative,N/A,11.0,,Negative,,N/A,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,35.0,,Negative,,N/A,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,100.0,-100.0,Negative,,N/A,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Negative,,N/A,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,Negative,,N/A,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-08-01,96,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.223,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.240,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.240,2024-08-01,2024-08-31
+2024-09-01,97,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,-100.0,-100.0,N/A,N/A,12.0,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,-100.0,-100.0,N/A,N/A,35.0,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,-100.0,-100.0,N/A,N/A,52.0,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,-100.0,-100.0,N/A,N/A,72.0,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,-100.0,-100.0,N/A,N/A,28.0,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,3.0,,-37.0,,-100.0,-100.0,Negative,N/A,52.0,-39.0,Negative,21.0,High,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,11.0,21.0,-38.0,18.0,-100.0,-100.0,Negative,High,36.0,,Negative,,High,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,16.0,,-28.0,,-100.0,-100.0,Negative,N/A,12.0,,Negative,,High,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,-100.0,-100.0,N/A,N/A,34.0,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,-100.0,-100.0,N/A,N/A,12.0,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,-100.0,-100.0,N/A,N/A,54.0,,N/A,,N/A,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,11.0,17.0,8.0,5.0,-100.0,-100.0,Moderate,Moderate,35.0,,Negative,,High,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,25.0,,26.0,,-100.0,-100.0,Severe,N/A,12.0,,Negative,,High,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,13.0,,-35.0,,-100.0,-100.0,Negative,N/A,53.0,-32.0,Negative,17.0,High,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-10-01,98,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,11.0,,3196.0,,-100.0,,Severe,N/A,12.0,,Severe,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,28.0,,4246.0,,-100.0,,Severe,N/A,37.0,,Severe,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,6.0,,3335.0,,-100.0,,Severe,N/A,51.0,79.0,Severe,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,N/A,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,-100.0,-100.0,N/A,N/A,72.0,,N/A,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,-100.0,-100.0,N/A,N/A,28.0,,N/A,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,27.0,,8.0,,-100.0,-100.0,Moderate,N/A,13.0,,Normal,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,17.0,,-14.0,,-100.0,-100.0,Negative,N/A,36.0,,Normal,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,9.0,,-13.0,,-100.0,-100.0,Negative,N/A,51.0,2.0,Normal,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,13.0,,-3.0,,-100.0,-100.0,Negative,N/A,52.0,6.0,Moderate,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,18.0,,35.0,,-100.0,-100.0,Severe,N/A,36.0,,Moderate,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,24.0,,64.0,,-100.0,-100.0,Severe,N/A,12.0,,Moderate,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-11-01,99,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,11.0,,3199.0,,-100.0,,Severe,N/A,12.0,,Severe,,N/A,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,28.0,,4288.0,,-100.0,,Severe,N/A,37.0,,Severe,,N/A,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,6.0,,3341.0,,-100.0,,Severe,N/A,51.0,136.0,Severe,,N/A,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Severe,,N/A,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,26.0,,39.0,,-100.0,-100.0,Severe,N/A,100.0,,Severe,,N/A,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,26.0,Severe,,N/A,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.237,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-12-31 14:17:39.253,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,23.0,High,,N/A,2024-12-31 14:17:39.253,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,High,,N/A,2024-12-31 14:17:39.253,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,23.0,,23.0,,-100.0,-100.0,High,N/A,100.0,,High,,N/A,2024-12-31 14:17:39.253,2024-11-01,2024-11-30
+2024-12-01,100,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.790,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2025-01-01,101,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.717,2025-01-01,2025-01-31
+2025-02-01,102,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:39.477,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Bulawayo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:39.510,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:39.557,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:39.587,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:39.633,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Harare,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:39.680,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Normal,,Normal,2025-04-04 14:54:39.713,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,1.0,0.0,-59.0,58.0,-99.0,-99.0,Negative,Severe,100.0,1.0,Normal,0.0,Normal,2025-04-04 14:54:39.760,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Manicaland,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,Normal,,Normal,2025-04-04 14:54:39.790,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,-99.0,-99.0,N/A,N/A,21.0,,N/A,,N/A,2025-04-04 14:54:39.837,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,-99.0,-99.0,N/A,N/A,79.0,,N/A,,N/A,2025-04-04 14:54:39.883,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,N/A,,N/A,2025-04-04 14:54:39.930,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:39.963,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.010,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.040,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.087,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.120,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.150,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Masvingo,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,Severe,,N/A,2025-04-04 14:54:40.197,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,12.0,,-6.0,,-100.0,-100.0,Negative,N/A,14.0,,Severe,,N/A,2025-04-04 14:54:40.243,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,51.0,,56.0,,-99.0,-99.0,Severe,N/A,86.0,44.0,Severe,,N/A,2025-04-04 14:54:40.273,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.320,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.353,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.400,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.430,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.477,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.510,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Midlands,Subnational,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.557,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.587,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-04-04 14:54:40.633,2025-02-01,2025-02-28
+2025-03-01,103,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.070,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.133,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.180,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.227,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Normal,,N/A,2025-05-05 15:07:17.307,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,1.0,,-59.0,,-99.0,-99.0,Negative,N/A,100.0,1.0,Normal,,N/A,2025-05-05 15:07:17.383,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,-99.0,-99.0,N/A,N/A,21.0,,N/A,,Negative,2025-05-05 15:07:17.430,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,-2.0,,-14.0,-99.0,-99.0,N/A,Negative,79.0,,N/A,-2.0,Negative,2025-05-05 15:07:17.477,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.523,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.570,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.617,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.660,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,43.0,,103.0,,-100.0,-99.0,Severe,N/A,100.0,43.0,Severe,,N/A,2025-05-05 15:07:17.723,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Severe,,N/A,2025-05-05 15:07:17.770,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.817,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.863,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.927,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:17.990,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:18.037,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-05-05 15:07:18.113,2025-03-01,2025-03-31
+2025-04-01,104,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.260,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.260,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.260,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.260,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,0.0,,58.0,,-99.0,-99.0,Severe,N/A,100.0,0.0,Normal,,N/A,2025-07-01 16:20:48.260,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Normal,,N/A,2025-07-01 16:20:48.260,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,-99.0,-99.0,N/A,N/A,79.0,,N/A,,N/A,2025-07-01 16:20:48.263,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,-99.0,-99.0,N/A,N/A,21.0,,N/A,,N/A,2025-07-01 16:20:48.263,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.263,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.263,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.263,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.267,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,27.0,,101.0,,-100.0,-99.0,Severe,N/A,100.0,27.0,Severe,,N/A,2025-07-01 16:20:48.267,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Severe,,N/A,2025-07-01 16:20:48.267,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.267,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.270,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.270,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.270,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.270,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:20:48.270,2025-04-01,2025-04-30
+2025-05-01,105,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.720,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.720,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.720,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.720,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.720,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.720,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,-2.0,,-14.0,,-99.0,-99.0,Negative,N/A,100.0,-2.0,Negative,,N/A,2025-07-01 16:48:07.723,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Negative,,N/A,2025-07-01 16:48:07.723,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.723,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.723,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.727,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.727,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.727,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.727,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.730,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.730,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.730,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.730,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.730,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-01 16:48:07.730,2025-05-01,2025-05-31
+2025-06-01,106,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.653,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.653,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.653,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.670,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.680,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.680,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.680,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.680,2025-06-01,2025-06-30
+2025-07-01,107,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.433,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.433,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.433,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.433,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.437,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.437,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.437,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.437,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.440,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.440,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.440,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.440,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.440,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.443,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.443,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.443,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.443,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.443,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.447,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.447,2025-07-01,2025-07-31
+2025-08-01,108,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.350,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.350,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.350,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.350,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.353,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.353,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.353,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.353,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.357,2025-08-01,2025-08-31
+2025-08-01,108,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.357,2025-08-01,2025-08-31
+2026-01-01,113,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.297,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.297,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.297,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.297,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,0.0,,1.0,,-42.0,,Normal,N/A,17.0,,Negative,,N/A,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,5.0,,-16.0,,-45.0,,Negative,N/A,83.0,-35.0,Negative,,N/A,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,4.0,,-90.0,,-41.0,,Negative,N/A,82.0,-32.0,Negative,,N/A,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,3.0,,-20.0,,-44.0,,Negative,N/A,18.0,,Negative,,N/A,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,-4.0,,15.0,,,,High,N/A,76.0,-11.0,Negative,,N/A,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,0.0,,14.0,,,,High,N/A,24.0,,Negative,,N/A,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-02-01,114,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.227,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Bulawayo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.230,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Harare,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.230,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Harare,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.230,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Manicaland,Subnational,Maize meal,Retail,41.0,9.0,,-19.0,,-43.0,,Negative,N/A,83.0,-24.0,Negative,,N/A,2026-03-18 15:37:13.230,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,-1.0,,16.0,,-43.0,,High,N/A,17.0,,Negative,,N/A,2026-03-18 15:37:13.230,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,1.0,,-42.0,,-46.0,,Negative,N/A,18.0,,Moderate,,N/A,2026-03-18 15:37:13.230,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Maize meal,Retail,41.0,3.0,,-41.0,,-41.0,,Negative,N/A,82.0,6.0,Moderate,,N/A,2026-03-18 15:37:13.233,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.233,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.233,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.233,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.237,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Masvingo,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.237,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.237,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.237,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.240,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.240,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.240,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.240,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,Midlands,Subnational,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2026-03-18 15:37:13.240,2026-02-01,2026-02-28
+2026-05-01,117,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,100.0,,N/A,,N/A,2026-06-18 16:20:59.863,2026-05-01,2026-05-31
+2026-05-01,117,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,48.0,,,,39.0,,Severe,N/A,100.0,,Severe,,N/A,2026-06-18 16:20:59.863,2026-05-01,2026-05-31
+2026-05-01,117,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,51.0,,-62.0,,-5.0,,Negative,N/A,100.0,-62.0,Negative,,N/A,2026-06-18 16:20:59.863,2026-05-01,2026-05-31
+2026-05-01,117,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-06-18 16:20:59.863,2026-05-01,2026-05-31
+2026-05-01,117,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-06-18 16:20:59.867,2026-05-01,2026-05-31
+2026-05-01,117,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,12.0,,-15.0,,20.0,,Negative,N/A,100.0,-15.0,Negative,,N/A,2026-06-18 16:20:59.867,2026-05-01,2026-05-31
+2026-05-01,117,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-06-18 16:20:59.867,2026-05-01,2026-05-31
+2026-05-01,117,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,-5.0,-8.0,11.0,-5.0,-11.0,-14.0,High,Negative,100.0,11.0,High,-5.0,Negative,2026-06-18 16:20:59.867,2026-05-01,2026-05-31
+2026-05-01,117,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,23.0,,-20.0,,44.0,25.0,Negative,N/A,100.0,-20.0,Negative,,N/A,2026-06-18 16:20:59.870,2026-05-01,2026-05-31
+2026-06-01,118,Monthly,271,Zimbabwe,Bulawayo,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,100.0,,N/A,,N/A,2026-07-15 09:21:01.560,2026-06-01,2026-06-30
+2026-06-01,118,Monthly,271,Zimbabwe,Manicaland,Subnational,Oil (vegetable),Retail,8.0,48.0,,,,43.0,,Severe,N/A,100.0,,Severe,,N/A,2026-07-15 09:21:01.563,2026-06-01,2026-06-30
+2026-06-01,118,Monthly,271,Zimbabwe,Mashonaland Central,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,100.0,,N/A,,N/A,2026-07-15 09:21:01.563,2026-06-01,2026-06-30
+2026-06-01,118,Monthly,271,Zimbabwe,Mashonaland East,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-07-15 09:21:01.563,2026-06-01,2026-06-30
+2026-06-01,118,Monthly,271,Zimbabwe,Mashonaland West,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-07-15 09:21:01.563,2026-06-01,2026-06-30
+2026-06-01,118,Monthly,271,Zimbabwe,Masvingo,Subnational,Oil (vegetable),Retail,8.0,12.0,,-15.0,,,,Negative,N/A,100.0,-15.0,Negative,,N/A,2026-07-15 09:21:01.567,2026-06-01,2026-06-30
+2026-06-01,118,Monthly,271,Zimbabwe,Matabeleland North,Subnational,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2026-07-15 09:21:01.567,2026-06-01,2026-06-30
+2026-06-01,118,Monthly,271,Zimbabwe,Matabeleland South,Subnational,Oil (vegetable),Retail,8.0,-7.0,,-13.0,,-15.0,-14.0,Negative,N/A,100.0,-13.0,Negative,,N/A,2026-07-15 09:21:01.567,2026-06-01,2026-06-30
+2026-06-01,118,Monthly,271,Zimbabwe,Midlands,Subnational,Oil (vegetable),Retail,8.0,46.0,,34.0,,61.0,,Severe,N/A,100.0,34.0,Severe,,N/A,2026-07-15 09:21:01.567,2026-06-01,2026-06-30
+2022-04-01,68,Monthly,271,Zimbabwe,National Average,National,Maize,Retail,41.0,31.0,32.0,2.0,23.0,68.0,109.0,Normal,High,39.0,9.0,Moderate,5.0,Moderate,2022-06-02 17:28:48.757,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,25.0,0.0,10.0,0.0,143.0,143.0,High,Normal,21.0,,Moderate,,Moderate,2022-06-02 17:28:48.757,2022-04-01,2022-04-30
+2022-04-01,68,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,22.0,-6.0,18.0,-8.0,110.0,101.0,High,Negative,41.0,,Moderate,,Moderate,2022-06-02 17:28:48.757,2022-04-01,2022-04-30
+2022-05-01,69,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,61.0,112.0,43.0,102.0,228.0,390.0,Severe,Severe,22.0,,Severe,,Severe,2022-07-01 17:44:25.730,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,National Average,National,Maize,Retail,41.0,58.0,28.0,56.0,62.0,133.0,239.0,Severe,Severe,37.0,45.0,Severe,79.0,Severe,2022-07-01 17:44:25.730,2022-05-01,2022-05-31
+2022-05-01,69,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,47.0,84.0,36.0,80.0,162.0,263.0,Severe,Severe,40.0,,Severe,,Severe,2022-07-01 17:44:25.730,2022-05-01,2022-05-31
+2022-06-01,70,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,45.0,,36.0,,178.0,263.0,Severe,N/A,39.0,,Severe,,N/A,2022-07-15 16:44:22.933,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,National Average,National,Maize,Retail,41.0,63.0,,75.0,,177.0,239.0,Severe,N/A,38.0,55.0,Severe,,N/A,2022-07-15 16:44:22.933,2022-06-01,2022-06-30
+2022-06-01,70,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,67.0,,56.0,,256.0,390.0,Severe,N/A,23.0,,Severe,,N/A,2022-07-15 16:44:22.933,2022-06-01,2022-06-30
+2022-07-01,71,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,200.0,12.0,190.0,-1.0,540.0,638.0,Severe,Negative,20.0,,Severe,,Negative,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,191.0,7.0,244.0,-8.0,375.0,462.0,Severe,Negative,50.0,179.0,Severe,-7.0,Negative,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-07-01,71,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,126.0,8.0,69.0,-7.0,339.0,391.0,Severe,Negative,30.0,,Severe,,Negative,2022-09-01 19:10:54.940,2022-07-01,2022-07-31
+2022-08-01,72,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,93.0,,24.0,,363.0,391.0,High,N/A,29.0,,Severe,,N/A,2022-09-30 09:06:14.367,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,146.0,,105.0,,593.0,638.0,Severe,N/A,21.0,,Severe,,N/A,2022-09-30 09:06:14.367,2022-08-01,2022-08-31
+2022-08-01,72,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,129.0,,121.0,,439.0,462.0,Severe,N/A,50.0,86.0,Severe,,N/A,2022-09-30 09:06:14.367,2022-08-01,2022-08-31
+2022-09-01,73,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,81.0,-8.0,56.0,-11.0,525.0,518.0,Severe,Negative,50.0,50.0,Severe,-10.0,Negative,2022-11-02 11:59:25.880,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,84.0,-6.0,51.0,-10.0,654.0,611.0,Severe,Negative,20.0,,Severe,,Negative,2022-11-02 11:59:25.880,2022-09-01,2022-09-30
+2022-09-01,73,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,78.0,-6.0,19.0,-9.0,447.0,437.0,High,Negative,30.0,,Severe,,Negative,2022-11-02 11:59:25.880,2022-09-01,2022-09-30
+2022-10-01,74,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,36.0,,14.0,,624.0,611.0,High,N/A,19.0,,High,,N/A,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,48.0,,12.0,,449.0,437.0,High,N/A,31.0,,High,,N/A,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-10-01,74,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,42.0,,21.0,,545.0,518.0,High,N/A,50.0,14.0,High,,N/A,2022-12-02 10:47:01.750,2022-10-01,2022-10-31
+2022-11-01,75,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,8.0,,-3.0,,510.0,611.0,Negative,N/A,20.0,,Negative,,N/A,2023-01-13 12:10:04.800,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,16.0,,5.0,,376.0,437.0,Moderate,N/A,31.0,,Negative,,N/A,2023-01-13 12:10:04.800,2022-11-01,2022-11-30
+2022-11-01,75,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,10.0,,-1.0,,496.0,518.0,Negative,N/A,50.0,-5.0,Negative,,N/A,2023-01-13 12:10:04.800,2022-11-01,2022-11-30
+2022-12-01,76,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.650,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.650,2022-12-01,2022-12-31
+2022-12-01,76,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-01 18:17:59.650,2022-12-01,2022-12-31
+2023-01-01,77,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.500,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.500,2023-01-01,2023-01-31
+2023-01-01,77,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-02-14 17:46:32.500,2023-01-01,2023-01-31
+2023-02-01,78,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.840,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.840,2023-02-01,2023-02-28
+2023-02-01,78,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-03-15 09:53:33.847,2023-02-01,2023-02-28
+2023-06-01,82,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.280,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.280,2023-06-01,2023-06-30
+2023-06-01,82,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2023-09-15 12:23:43.280,2023-06-01,2023-06-30
+2023-09-01,85,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,52.0,-16.0,-2.0,-16.0,888.0,678.0,Negative,Negative,37.0,,Negative,,Negative,2023-10-16 18:13:44.403,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,29.0,-10.0,-9.0,-9.0,712.0,547.0,Negative,Negative,49.0,-15.0,Negative,-10.0,Negative,2023-10-16 18:13:44.403,2023-09-01,2023-09-30
+2023-09-01,85,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,33.0,-2.0,-8.0,1.0,476.0,400.0,Negative,Normal,14.0,,Negative,,Negative,2023-10-16 18:13:44.403,2023-09-01,2023-09-30
+2023-10-01,86,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,-3.0,9.0,-38.0,-55.0,392.0,208.0,Negative,Negative,51.0,-40.0,Negative,-42.0,Negative,2023-12-04 17:15:19.417,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,-8.0,-4.0,-24.0,-14.0,423.0,398.0,Negative,Negative,14.0,,Negative,,Negative,2023-12-04 17:15:19.417,2023-10-01,2023-10-31
+2023-10-01,86,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,-1.0,-3.0,-25.0,-12.0,738.0,645.0,Negative,Negative,35.0,,Negative,,Negative,2023-12-04 17:15:19.417,2023-10-01,2023-10-31
+2023-11-01,87,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,-9.0,,-43.0,,408.0,208.0,Negative,N/A,52.0,-38.0,Negative,,N/A,2023-12-18 15:12:55.630,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,-15.0,,-22.0,,426.0,398.0,Negative,N/A,14.0,,Negative,,N/A,2023-12-18 15:12:55.630,2023-11-01,2023-11-30
+2023-11-01,87,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,-21.0,,-31.0,,694.0,645.0,Negative,N/A,34.0,,Negative,,N/A,2023-12-18 15:12:55.630,2023-11-01,2023-11-30
+2023-12-01,88,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,-16.0,,-27.0,,654.0,645.0,Negative,N/A,33.0,,Negative,,N/A,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,2.0,,-59.0,,416.0,208.0,Negative,N/A,54.0,-29.0,Negative,,N/A,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2023-12-01,88,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,-10.0,,-18.0,,393.0,398.0,Negative,N/A,14.0,,Negative,,N/A,2024-02-01 17:47:00.223,2023-12-01,2023-12-31
+2024-01-01,89,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.953,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.953,2024-01-01,2024-01-31
+2024-01-01,89,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-02-14 14:31:16.953,2024-01-01,2024-01-31
+2024-02-01,90,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,20.0,-32.0,19.0,-38.0,582.0,424.0,High,Negative,55.0,20.0,High,-32.0,Negative,2024-03-15 15:51:27.373,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,-1.0,-18.0,13.0,-26.0,602.0,494.0,High,Negative,32.0,,High,,Negative,2024-03-15 15:51:27.373,2024-02-01,2024-02-29
+2024-02-01,90,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,1.0,-17.0,-8.0,-21.0,410.0,364.0,Negative,Negative,13.0,,High,,Negative,2024-03-15 15:51:27.373,2024-02-01,2024-02-29
+2024-03-01,91,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,13.0,-7.0,17.0,23.0,504.0,484.0,High,High,13.0,,Severe,,High,2024-04-15 09:38:15.140,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,28.0,0.0,26.0,21.0,637.0,530.0,Severe,High,56.0,28.0,Severe,13.0,High,2024-04-15 09:38:15.140,2024-03-01,2024-03-31
+2024-03-01,91,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,6.0,1.0,5.0,-6.0,643.0,603.0,Moderate,Negative,31.0,,Severe,,High,2024-04-15 09:38:15.140,2024-03-01,2024-03-31
+2024-04-01,92,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,8.0,,17.0,,366.0,484.0,High,N/A,14.0,,Negative,,N/A,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,0.0,,-11.0,,425.0,530.0,Negative,N/A,54.0,-26.0,Negative,,N/A,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-04-01,92,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,7.0,,-4.0,,438.0,603.0,Negative,N/A,33.0,,Negative,,N/A,2024-06-17 13:04:40.523,2024-04-01,2024-04-30
+2024-05-01,93,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,-56.0,1.0,-53.0,-12.0,66.0,-99.0,Negative,Negative,48.0,-70.0,Negative,1.0,Normal,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,-45.0,,-53.0,,102.0,-99.0,Negative,N/A,34.0,,Negative,,Normal,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-05-01,93,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,-36.0,,-19.0,,111.0,-100.0,Negative,N/A,17.0,,Negative,,Normal,2024-07-01 17:03:25.790,2024-05-01,2024-05-31
+2024-06-01,94,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,-100.0,,-100.0,,-100.0,-100.0,Negative,N/A,11.0,,Negative,,N/A,2024-07-15 15:07:22.263,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,35.0,,Negative,,N/A,2024-07-15 15:07:22.263,2024-06-01,2024-06-30
+2024-06-01,94,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,54.0,-100.0,Negative,,N/A,2024-07-15 15:07:22.263,2024-06-01,2024-06-30
+2024-07-01,95,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,54.0,-100.0,Negative,,N/A,2024-09-02 13:19:55.360,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,-100.0,,-100.0,,-100.0,-99.0,Negative,N/A,35.0,,Negative,,N/A,2024-09-02 13:19:55.377,2024-07-01,2024-07-31
+2024-07-01,95,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,-100.0,,-100.0,,-100.0,-100.0,Negative,N/A,11.0,,Negative,,N/A,2024-09-02 13:19:55.377,2024-07-01,2024-07-31
+2024-08-01,96,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.240,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.240,2024-08-01,2024-08-31
+2024-08-01,96,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2024-10-02 12:51:27.240,2024-08-01,2024-08-31
+2024-09-01,97,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,9.0,-3.0,-39.0,1.0,-100.0,-100.0,Negative,Normal,53.0,-30.0,Negative,8.0,Moderate,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,9.0,20.0,-45.0,28.0,-100.0,-100.0,Negative,Severe,35.0,,Negative,,Moderate,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-09-01,97,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,20.0,-1.0,-16.0,-12.0,-100.0,-100.0,Negative,Negative,12.0,,Negative,,Moderate,2024-11-06 17:25:19.697,2024-09-01,2024-09-30
+2024-10-01,98,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,21.0,,9.0,,-100.0,-100.0,Moderate,N/A,12.0,,Moderate,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,15.0,,-22.0,,-100.0,-100.0,Negative,N/A,36.0,,Moderate,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-10-01,98,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,9.0,,-1.0,,-100.0,-100.0,Negative,N/A,52.0,9.0,Moderate,,N/A,2024-12-04 12:19:15.330,2024-10-01,2024-10-31
+2024-11-01,99,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,11.0,,19.0,,-100.0,-100.0,High,N/A,12.0,,High,,N/A,2024-12-31 14:17:39.253,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,4.0,,25.0,,-100.0,-100.0,Severe,N/A,50.0,20.0,High,,N/A,2024-12-31 14:17:39.253,2024-11-01,2024-11-30
+2024-11-01,99,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,24.0,,47.0,,-100.0,-100.0,Severe,N/A,38.0,,High,,N/A,2024-12-31 14:17:39.253,2024-11-01,2024-11-30
+2024-12-01,100,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2024-12-01,100,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-02-03 12:25:18.803,2024-12-01,2024-12-31
+2025-01-01,101,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.733,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.733,2025-01-01,2025-01-31
+2025-01-01,101,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,,,,2025-03-04 17:15:37.733,2025-01-01,2025-01-31
+2025-02-01,102,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,25.0,2.0,-5.0,22.0,-99.0,-99.0,Negative,High,82.0,27.0,Severe,2.0,Normal,2025-04-04 14:54:40.667,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,National Average,National,Sugar,Retail,12.0,,,,,,,N/A,N/A,,,Severe,,Normal,2025-04-04 14:54:40.727,2025-02-01,2025-02-28
+2025-02-01,102,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,35.0,,23.0,,-99.0,-99.0,High,N/A,18.0,,Severe,,Normal,2025-04-04 14:54:40.760,2025-02-01,2025-02-28
+2025-03-01,103,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,13.0,-7.0,-14.0,-12.0,-99.0,-99.0,Negative,Negative,80.0,-6.0,Negative,-7.0,Negative,2025-05-05 15:07:18.160,2025-03-01,2025-03-31
+2025-03-01,103,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,52.0,,32.0,,-99.0,-99.0,Severe,N/A,20.0,,Negative,,Negative,2025-05-05 15:07:18.223,2025-03-01,2025-03-31
+2025-04-01,104,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,5.0,,-3.0,,-99.0,-99.0,Negative,N/A,80.0,39.0,Severe,,N/A,2025-07-01 16:20:48.270,2025-04-01,2025-04-30
+2025-04-01,104,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,48.0,,28.0,,-99.0,-99.0,Severe,N/A,20.0,,Severe,,N/A,2025-07-01 16:20:48.273,2025-04-01,2025-04-30
+2025-05-01,105,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,Negative,,N/A,2025-07-01 16:48:07.733,2025-05-01,2025-05-31
+2025-05-01,105,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,-1.0,,-7.0,,-98.0,-99.0,Negative,N/A,100.0,-1.0,Negative,,N/A,2025-07-01 16:48:07.733,2025-05-01,2025-05-31
+2025-06-01,106,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.680,2025-06-01,2025-06-30
+2025-06-01,106,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-07-16 09:53:48.680,2025-06-01,2025-06-30
+2025-07-01,107,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.447,2025-07-01,2025-07-31
+2025-07-01,107,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,,,,,,,N/A,N/A,,,,,,2025-09-04 15:45:16.447,2025-07-01,2025-07-31
+2025-08-01,108,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,,,,,,,N/A,N/A,,,,,,2025-09-15 17:11:34.357,2025-08-01,2025-08-31
+2026-01-01,113,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,1.0,,-18.0,,-40.0,-35.0,Negative,N/A,81.0,-21.0,Negative,,N/A,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-01-01,113,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,-7.0,,-15.0,,-29.0,-26.0,Negative,N/A,19.0,,Negative,,N/A,2026-02-17 16:18:21.313,2026-01-01,2026-01-31
+2026-02-01,114,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,-15.0,,-15.0,,-39.0,-30.0,Negative,N/A,18.0,,Negative,,N/A,2026-03-18 15:37:13.240,2026-02-01,2026-02-28
+2026-02-01,114,Monthly,271,Zimbabwe,National Average,National,Maize meal,Retail,41.0,2.0,,-9.0,,-35.0,-23.0,Negative,N/A,82.0,-11.0,Negative,,N/A,2026-03-18 15:37:13.240,2026-02-01,2026-02-28
+2026-05-01,117,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,21.0,-7.0,17.0,-16.0,7.0,-9.0,High,Negative,100.0,17.0,High,-16.0,Negative,2026-06-18 16:20:59.870,2026-05-01,2026-05-31
+2026-06-01,118,Monthly,271,Zimbabwe,National Average,National,Oil (vegetable),Retail,8.0,20.0,,-1.0,,8.0,-9.0,Negative,N/A,100.0,-1.0,Negative,,N/A,2026-07-15 09:21:01.570,2026-06-01,2026-06-30

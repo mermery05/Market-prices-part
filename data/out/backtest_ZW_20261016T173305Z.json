@@ -1,0 +1,48 @@
+{
+  "country": "ZW",
+  "from": "2023-10-01",
+  "to": "2024-04-03",
+  "run_at": "20261016T173305Z",
+  "n_ticks": 27,
+  "n_districts": 0,
+  "n_units_assessed": 0,
+  "n_phase_3_plus_transitions": 0,
+  "transitions": {},
+  "model_metrics": {
+    "hit_rate": null,
+    "false_alarm_rate": null,
+    "median_weeks_gained": null,
+    "n_hits": 0,
+    "n_warned_units": 0,
+    "n_warned_units_with_ipc_coverage": 0
+  },
+  "persistence_baseline": {
+    "hit_rate": null,
+    "false_alarm_rate": null,
+    "median_weeks_gained": null,
+    "n_hits": 0,
+    "n_warned_units": 0,
+    "n_warned_units_with_ipc_coverage": 0
+  },
+  "model_metrics_level1": {
+    "hit_rate": null,
+    "false_alarm_rate": null,
+    "median_weeks_gained": null,
+    "n_hits": 0,
+    "n_warned_units": 0,
+    "n_warned_units_with_ipc_coverage": 0
+  },
+  "persistence_baseline_level1": {
+    "hit_rate": null,
+    "false_alarm_rate": null,
+    "median_weeks_gained": null,
+    "n_hits": 0,
+    "n_warned_units": 0,
+    "n_warned_units_with_ipc_coverage": 0
+  },
+  "level_counts_over_ticks": {},
+  "notes": [
+    "no IPC analysis overlaps the window (latest IPC period ends 2020-12-31); hit/false-alarm rates cannot be computed",
+    "no unit had recent enough features for an assessment at any tick"
+  ]
+}
